@@ -1,5 +1,7 @@
 # Taller de Repaso: Estadística Descriptiva
-
+---
+### Autor: Kevin Esguerra Cardona
+---
 ## Uso del Script de Estadísticas
 
 Para calcular los valores de este taller, puedes usar el script `statistics_calc.py`.
