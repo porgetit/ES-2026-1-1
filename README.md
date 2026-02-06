@@ -105,7 +105,7 @@ python3 statistics_calc.py 70 72 71 69 68 70 , 60 80 75 65 85 55
    > El conjunto con mayor desviación estándar es el que presenta mayor dispersión. Desde la interpretación de que la desviación estándar es la medida de cuán alejados están los datos entre sí, podemos concluir que el conjunto con mayor desviación estándar es el que presenta mayor dispersión.
 
 3. **¿Por qué es importante analizar la dispersión junto con la media?**
-   > Porque porque nos permite identificar la calidad del conjunto muestral.
+   > Porque nos permite identificar la calidad del conjunto muestral.
 
 ---
 
